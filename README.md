@@ -1,10 +1,10 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,45:063B6D,75:00D4FF,100:FF1744&text=denterion&fontColor=F8FAFC&fontSize=64&fontAlignY=38&desc=Aspiring%20Go%20Backend%20Developer&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,35:063B6D,62:00D4FF,82:7C3AED,100:FF1744&text=denterion&fontColor=F8FAFC&fontSize=64&fontAlignY=38&desc=Go%20Backend%20Developer%20in%20progress&descAlignY=58&descSize=18)
 
 # Building backend systems with discipline, clarity, and real-world purpose.
 
-I am a student and aspiring **Backend Go Developer** focused on building practical backend systems, improving my engineering skills, and growing into a developer who can create useful, production-ready products.
+I am a student and aspiring **Backend Go Developer** focused on practical engineering, clean backend architecture, and projects that can grow beyond demo code.
 
 [![GitHub](https://img.shields.io/badge/GitHub-denterion-181717?style=for-the-badge&logo=github)](https://github.com/denterion)
 [![Profile Views](https://komarev.com/ghpvc/?username=denterion&style=for-the-badge&color=00d4ff)](https://github.com/denterion)
@@ -15,11 +15,13 @@ I am a student and aspiring **Backend Go Developer** focused on building practic
 
 ## About Me
 
-I like backend development because it combines logic, architecture, performance, and responsibility. My current focus is not just writing demo code, but understanding how real systems are designed, deployed, tested, and maintained.
+I am learning backend development through real projects: APIs, databases, containers, message brokers, service communication, and the engineering habits that make software easier to maintain.
 
-I am especially interested in distributed systems, microservices, algorithms, system design, and products that connect software with real business value. I also enjoy working on public projects, improving my English, learning from strong engineering practices, and building a disciplined lifestyle around long-term growth.
+My main stack is **Go**, **PostgreSQL**, **Docker**, **REST API**, **gRPC**, **Kafka**, and **Redis**. I like backend work because it combines logic, structure, responsibility, and product thinking. A good system should not only work locally once; it should be understandable, testable, deployable, and useful.
 
-> Discipline turns ideas into systems. Engineering turns systems into value.
+Outside of code, I am interested in startups, crypto and digital products, fitness, discipline, languages, travel, and books. I especially like Italy and Japan, Haruki Murakami, and fantasy literature.
+
+> Discipline turns ideas into systems. Engineering turns systems into products.
 
 ---
 
@@ -41,7 +43,10 @@ I am especially interested in distributed systems, microservices, algorithms, sy
 
 </div>
 
-**Core direction:** Go backend development, PostgreSQL, Docker, REST APIs, gRPC, Kafka, Redis, Git/GitHub, and basic frontend when it is useful for presenting or testing a product.
+**Backend:** Go, REST API, gRPC, PostgreSQL, Redis, Kafka  
+**Infrastructure:** Docker, Git, GitHub, Linux basics  
+**Frontend:** Basic HTML, CSS, and JavaScript when a project needs a simple interface  
+**Engineering interests:** Distributed systems, microservices, algorithms, system design, and clean backend architecture
 
 ---
 
@@ -49,39 +54,60 @@ I am especially interested in distributed systems, microservices, algorithms, sy
 
 ### Event-Driven Notification Platform
 
-A backend system built with **Go**, **gRPC**, **Kafka**, **PostgreSQL**, **Redis**, and **Docker**. The project is focused on event-driven communication, service boundaries, message processing, and backend infrastructure patterns.
+A Go backend system built around service communication and asynchronous processing.
+
+**Stack:** Go, gRPC, Kafka, PostgreSQL, Redis, Docker
+
+The project focuses on event-driven architecture, message processing, persistence, caching, and separation between backend services.
 
 ### Task Tracker
 
-A **Go + PostgreSQL** CRUD application with Docker support and a simple frontend. Built to practice clean API design, database operations, project structure, and practical full-cycle development.
+A CRUD application with a Go backend, PostgreSQL database, Docker setup, and a simple frontend.
+
+**Stack:** Go, PostgreSQL, Docker, REST API, basic frontend
+
+This project is part of my practice in API design, database operations, project structure, and building a complete small product from backend to interface.
 
 ### Telegram Bot for Beauty Salon
 
-A Telegram bot written in **Go** with order management and admin features. The project focuses on useful automation, user interaction, and practical business workflows.
+A Telegram bot for salon order management and admin workflows.
+
+**Stack:** Go, Telegram Bot API, order management, admin features
+
+The project is focused on useful automation, user interaction, command handling, and simple business logic.
 
 ### TikiDeco
 
-A crypto/IT project connected with hotels, digital utility, token development, branding, and public communication. It combines technical work with product thinking, positioning, and real-world use cases.
+A crypto and IT project connected with hotels, digital utility, token development, branding, and public communication.
+
+**Focus:** crypto, digital utility, hotels, branding, documentation, public project communication
+
+This project helps me practice not only development, but also product thinking, positioning, roadmap work, and building something public with a long-term direction.
 
 ### ABC Bee Colony Pathfinder
 
-A university/coursework project about the **Artificial Bee Colony algorithm** for finding shortest paths in graphs. It helped me practice algorithms, graph logic, and research-oriented programming.
+A university/coursework project about the Artificial Bee Colony algorithm for finding shortest paths in graphs.
+
+**Focus:** algorithms, graph theory, optimization, shortest paths
+
+It helped me connect algorithmic thinking with practical implementation and research-style problem solving.
 
 ### Personal Portfolio Website
 
-A personal developer website for presenting projects, contacts, and my growth as a backend-focused engineer.
+A personal developer website with projects, contacts, and a clear overview of my technical direction.
+
+**Focus:** personal brand, project presentation, basic frontend, communication
 
 ---
 
 ## Current Focus
 
-- Building stronger backend projects with Go
+- Building backend projects in Go that are closer to real production systems
+- Improving API design, database design, and service architecture
 - Learning distributed systems, microservices, and system design
-- Improving database design and API architecture
 - Practicing Docker-based development workflows
-- Writing cleaner, more maintainable code
-- Improving English for professional communication
-- Turning portfolio projects into serious, useful products
+- Making my GitHub portfolio more serious, readable, and useful
+- Improving English for professional communication and future international opportunities
 
 ---
 
@@ -94,12 +120,6 @@ A personal developer website for presenting projects, contacts, and my growth as
 - Create projects with real value, not just demo code
 - Study abroad in the future, especially in Italy
 - Grow as an independent developer and product-minded engineer
-
----
-
-## Beyond Code
-
-I am interested in startups, crypto, tokens, real-world digital products, fitness, discipline, languages, travel, and books. I especially like the atmosphere of Italy and Japan, and I enjoy literature by Haruki Murakami and fantasy authors.
 
 ---
 
@@ -122,5 +142,13 @@ I am interested in startups, crypto, tokens, real-world digital products, fitnes
 [![GitHub](https://img.shields.io/badge/GitHub-denterion-181717?style=for-the-badge&logo=github)](https://github.com/denterion)
 
 Open to backend development opportunities, internships, collaboration, and serious portfolio projects.
+
+</div>
+
+---
+
+<div align="center">
+
+**Clean systems. Real value. Consistent work.**
 
 </div>
