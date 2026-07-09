@@ -1,25 +1,29 @@
-<div align="center">
+<p align="center">
+  <img src="assets/profile-banner.jpg" alt="denterion profile banner" width="100%" />
+</p>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,35:063B6D,62:00D4FF,82:7C3AED,100:FF1744&text=denterion&fontColor=F8FAFC&fontSize=64&fontAlignY=38&desc=Go%20Backend%20Developer%20in%20progress&descAlignY=58&descSize=18)
+<h1 align="center">denterion</h1>
 
-# Building backend systems with discipline, clarity, and real-world purpose.
+<p align="center">
+  Student - Aspiring Backend Go Developer - Building backend systems with discipline, clarity, and product thinking
+</p>
 
-I am a student and aspiring **Backend Go Developer** focused on practical engineering, clean backend architecture, and projects that can grow beyond demo code.
-
-[![GitHub](https://img.shields.io/badge/GitHub-denterion-181717?style=for-the-badge&logo=github)](https://github.com/denterion)
-[![Profile Views](https://komarev.com/ghpvc/?username=denterion&style=for-the-badge&color=00d4ff)](https://github.com/denterion)
-
-</div>
+<p align="center">
+  <a href="https://github.com/denterion">
+    <img src="https://img.shields.io/badge/GitHub-denterion-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=denterion&style=for-the-badge&color=00d4ff" alt="Profile views" />
+</p>
 
 ---
 
-## About Me
+## About
 
-I am learning backend development through real projects: APIs, databases, containers, message brokers, service communication, and the engineering habits that make software easier to maintain.
+I am a student and aspiring **Backend Go Developer** focused on real engineering practice: APIs, databases, containers, service communication, message brokers, and clean backend architecture.
 
-My main stack is **Go**, **PostgreSQL**, **Docker**, **REST API**, **gRPC**, **Kafka**, and **Redis**. I like backend work because it combines logic, structure, responsibility, and product thinking. A good system should not only work locally once; it should be understandable, testable, deployable, and useful.
+I am not interested in building only polished demos. I want to understand how useful systems are designed, developed, tested, deployed, and improved over time.
 
-Outside of code, I am interested in startups, crypto and digital products, fitness, discipline, languages, travel, and books. I especially like Italy and Japan, Haruki Murakami, and fantasy literature.
+My current direction is **Go backend development** with a practical product mindset: write clear code, understand the system, ship useful features, and keep improving.
 
 > Discipline turns ideas into systems. Engineering turns systems into products.
 
@@ -27,86 +31,47 @@ Outside of code, I am interested in startups, crypto and digital products, fitne
 
 ## Tech Stack
 
-<div align="center">
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-101828?style=for-the-badge&logo=fastapi&logoColor=00D4FF)
-![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=google&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111827)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/REST_API-101828?style=for-the-badge&logo=fastapi&logoColor=00D4FF" alt="REST API" />
+  <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=google&logoColor=white" alt="gRPC" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111827" alt="Linux" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
 
 **Backend:** Go, REST API, gRPC, PostgreSQL, Redis, Kafka  
 **Infrastructure:** Docker, Git, GitHub, Linux basics  
 **Frontend:** Basic HTML, CSS, and JavaScript when a project needs a simple interface  
-**Engineering interests:** Distributed systems, microservices, algorithms, system design, and clean backend architecture
+**Interests:** distributed systems, microservices, algorithms, system design, and production-ready products
 
 ---
 
 ## Featured Projects
 
-### Event-Driven Notification Platform
-
-A Go backend system built around service communication and asynchronous processing.
-
-**Stack:** Go, gRPC, Kafka, PostgreSQL, Redis, Docker
-
-The project focuses on event-driven architecture, message processing, persistence, caching, and separation between backend services.
-
-### Task Tracker
-
-A CRUD application with a Go backend, PostgreSQL database, Docker setup, and a simple frontend.
-
-**Stack:** Go, PostgreSQL, Docker, REST API, basic frontend
-
-This project is part of my practice in API design, database operations, project structure, and building a complete small product from backend to interface.
-
-### Telegram Bot for Beauty Salon
-
-A Telegram bot for salon order management and admin workflows.
-
-**Stack:** Go, Telegram Bot API, order management, admin features
-
-The project is focused on useful automation, user interaction, command handling, and simple business logic.
-
-### TikiDeco
-
-A crypto and IT project connected with hotels, digital utility, token development, branding, and public communication.
-
-**Focus:** crypto, digital utility, hotels, branding, documentation, public project communication
-
-This project helps me practice not only development, but also product thinking, positioning, roadmap work, and building something public with a long-term direction.
-
-### ABC Bee Colony Pathfinder
-
-A university/coursework project about the Artificial Bee Colony algorithm for finding shortest paths in graphs.
-
-**Focus:** algorithms, graph theory, optimization, shortest paths
-
-It helped me connect algorithmic thinking with practical implementation and research-style problem solving.
-
-### Personal Portfolio Website
-
-A personal developer website with projects, contacts, and a clear overview of my technical direction.
-
-**Focus:** personal brand, project presentation, basic frontend, communication
+| Project | What it is | Main focus |
+| --- | --- | --- |
+| **Event-Driven Notification Platform** | A Go backend system using gRPC, Kafka, PostgreSQL, Redis, and Docker | Event-driven architecture, service communication, message processing |
+| **Task Tracker** | A Go + PostgreSQL CRUD application with Docker and a simple frontend | API design, database operations, full-cycle backend practice |
+| **Telegram Bot for Beauty Salon** | A Go Telegram bot with order management and admin features | Automation, user interaction, business workflows |
+| **TikiDeco** | A crypto/IT project connected with hotels, digital utility, token development, branding, and public communication | Product thinking, documentation, public positioning, real-world direction |
+| **ABC Bee Colony Pathfinder** | A university project about the Artificial Bee Colony algorithm for shortest paths in graphs | Algorithms, graph theory, optimization |
+| **Personal Portfolio Website** | A personal developer website with projects and contacts | Personal brand, project presentation, basic frontend |
 
 ---
 
 ## Current Focus
 
-- Building backend projects in Go that are closer to real production systems
+- Building stronger backend projects with **Go**
 - Improving API design, database design, and service architecture
 - Learning distributed systems, microservices, and system design
 - Practicing Docker-based development workflows
-- Making my GitHub portfolio more serious, readable, and useful
+- Making my GitHub portfolio more serious and useful
 - Improving English for professional communication and future international opportunities
 
 ---
@@ -123,32 +88,38 @@ A personal developer website with projects, contacts, and a clear overview of my
 
 ---
 
-## GitHub Stats
+## Visual Direction
 
-<div align="center">
+<p align="center">
+  <img src="assets/miami-night.jpg" alt="Miami night visual" width="31%" />
+  <img src="assets/sky-study.jpg" alt="Sky study visual" width="31%" />
+  <img src="assets/signal-face.jpg" alt="Signal face visual" width="31%" />
+</p>
 
-![denterion's GitHub stats](https://github-readme-stats.vercel.app/api?username=denterion&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D4FF&icon_color=FF1744&text_color=E5E7EB&bg_color=050816)
+I like a visual style that feels like night city lights, contrast, focus, and motion: a little cinematic, a little technical, but still clean enough for a developer profile.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denterion&layout=compact&theme=tokyonight&hide_border=true&title_color=00D4FF&text_color=E5E7EB&bg_color=050816)
+---
 
-</div>
+## Beyond Code
+
+I am interested in startups, crypto and real-world digital products, fitness, discipline, languages, travel, and books. Italy and Japan are two countries I would like to explore more deeply, and I enjoy Haruki Murakami and fantasy literature.
 
 ---
 
 ## Contact
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/denterion">
+    <img src="https://img.shields.io/badge/GitHub-denterion-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-denterion-181717?style=for-the-badge&logo=github)](https://github.com/denterion)
-
-Open to backend development opportunities, internships, collaboration, and serious portfolio projects.
-
-</div>
+<p align="center">
+  Open to backend development opportunities, internships, collaboration, and serious portfolio projects.
+</p>
 
 ---
 
-<div align="center">
-
-**Clean systems. Real value. Consistent work.**
-
-</div>
+<p align="center">
+  <b>Clean systems. Real value. Consistent work.</b>
+</p>
